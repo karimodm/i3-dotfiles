@@ -1,5 +1,13 @@
 # Keyitdev Dotfiles 
 
+## Forked Personal used
+---
+- picom conf: fading
+- roboto font
+- alacritty
+- light and i3 hook
+---
+
 ## [Watch on Youtube](https://youtu.be/tSreyGcCMB4) <img alt="" align="right" src="https://img.shields.io/github/forks/keyitdev/dotfiles?color=bf616a&labelColor=1b1b25&style=for-the-badge"/> <img alt="" align="right" src="https://img.shields.io/github/stars/keyitdev/dotfiles?color=dd864a&labelColor=1b1b25&style=for-the-badge"/>
 
 ### [Showcase](#showcase) · [Manual installation](#manual-installation) · [Detailed info](#detailed-information) · [Troubleshooting](#troubleshooting) · [Contributions](#contributions)
