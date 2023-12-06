@@ -1,0 +1,7 @@
+MAIN:
+noto-fonts-emoji
+
+AUR:
+oh-my-zsh-git
+spotify
+visual-studio-code-bin

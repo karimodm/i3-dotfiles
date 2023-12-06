@@ -1,0 +1,11 @@
+export QT_QPA_PLATFORMTHEME="qt5ct"
+export EDITOR=/usr/bin/nvim
+export VISUAL=/usr/bin/nvim
+export GTK2_RC_FILES="$HOME/.gtkrc-2.0"
+# fix "xdg-open fork-bomb" export your preferred browser from here
+export BROWSER=/usr/bin/brave
+export SSH_AUTH_SOCK="$XDG_RUNTIME_DIR/ssh-agent.socket"
+export HISTSIZE=100000
+export HISTFILESIZE=200000
+alias ic='cd ~/Sync/iota/repos/iota-core-work'
+alias vim='nvim'
